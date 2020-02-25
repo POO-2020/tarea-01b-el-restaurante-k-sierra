@@ -1,4 +1,5 @@
 import Precio from "./Precio.js";
+import Producto from "./producto.js";
 export default class elementoPedido{
     /**
      * 
